@@ -615,3 +615,5 @@ color: #0f74bc;}
 .card:hover {
     transform: scale(1.05);
 }
+.btn3{
+    width:max-content;
