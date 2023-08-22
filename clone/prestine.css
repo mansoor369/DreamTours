@@ -40,6 +40,14 @@ body{
     margin-left: -45px;
     
 }
+
+@media (min-width: 1366px){
+    .heading
+    {
+        margin-left:5%;
+    }
+}
+
 @media (max-width: 1366px){
     .heading
     {
